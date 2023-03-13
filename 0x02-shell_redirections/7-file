@@ -1,5 +1,2 @@
 #!/bin/bash
-echo "Best School" > "$(cat <<'END_NAME'
-\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
-END_NAME
-)"
+echo "Best School" > \\\*\\\\\'\"Best\ School\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
